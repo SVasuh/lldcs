@@ -30,7 +30,7 @@
 
 ## Technologies Used
 - Python Library - version 3.0
-- Jupyter Notebook - <Prince.ipynb>
+- Jupyter Notebook 
 - CSV file
 - Excel file
 
